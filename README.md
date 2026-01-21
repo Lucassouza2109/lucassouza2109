@@ -1,12 +1,14 @@
 ## Welcome to my profile. My name is Lucas Souza! 
 
 <div>
-   <a href="https://github.com/Lucassouza2109">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Lucassouza2109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   </a>
-   <a href="https://github.com/Lucassouza2109">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassouza2109&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
+  <a href="https://github.com/Lucassouza2109">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/?username=Lucassouza2109&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true"/>
+  </a>
+  <a href="https://github.com/Lucassouza2109">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassouza2109&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight"/>
+  </a>
 </div>
 
 <div><br>
