@@ -11,9 +11,21 @@ I'm a passionate **QA Tester & aspiring Developer** who loves learning new techn
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucassouza2109&show_icons=true&theme=tokyonight&count_private=true)
+<section>
+  <h2>📊 GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassouza2109&layout=compact&langs_count=6&theme=tokyonight)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lucassouza2109&show_icons=true&theme=tokyonight&count_private=true"
+    alt="GitHub Stats"
+    style="max-width:100%; height:auto;"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassouza2109&layout=compact&langs_count=6&theme=tokyonight"
+    alt="Top Languages"
+    style="max-width:100%; height:auto;"
+  />
+</section>
 
 ---
 
