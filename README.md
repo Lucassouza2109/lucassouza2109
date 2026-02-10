@@ -2,6 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucassouza2109&show_icons=true&theme=tokyonight&count_private=true)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassouza2109&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
